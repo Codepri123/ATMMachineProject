@@ -1,7 +1,5 @@
 # ATM Machine Simulation (Python)
-
 ##  Project Description
-
 This is a simple ATM Machine Simulation project written in Python. The program allows users to:
 
 * Insert an ATM card
@@ -11,7 +9,7 @@ This is a simple ATM Machine Simulation project written in Python. The program a
 * Deposit money
 * Withdraw money
 * Exit the system
-
+  
 This project was created to practice basic Python concepts such as:
 
 * Variables
@@ -62,14 +60,14 @@ Click the BELOW OPTIONS:
 4. Exit
 ```
 
-## 📚 What I Learned
+##  What I Learned
 
 * Creating menu-driven applications
 * Using lists for user validation
 * Handling user input
 * Working with Python match-case statements
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add PIN authentication
 * Store actual account balances
@@ -77,6 +75,6 @@ Click the BELOW OPTIONS:
 * Save user data using files or a database
 * Improve user interface
 
-## 👨‍💻 Author
+##  Author
 
 Priyanka Sharma
